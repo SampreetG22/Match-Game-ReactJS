@@ -1,0 +1,14 @@
+.imagesElement {
+  list-style-type: none;
+}
+.thumbNail {
+  width: 95px;
+  height: 95px;
+  margin: 10px;
+}
+.imageBtn {
+  border: none;
+  background-color: transparent;
+  padding: 0px;
+  cursor: pointer;
+}

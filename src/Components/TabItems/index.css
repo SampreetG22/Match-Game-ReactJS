@@ -1,0 +1,26 @@
+.tabElement {
+  list-style-type: none;
+}
+
+.activeTab {
+  border-bottom: 3px solid #fec653;
+  color: #fec653;
+  font-weight: 500;
+  font-size: 18px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+.normalTab {
+  color: white;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
